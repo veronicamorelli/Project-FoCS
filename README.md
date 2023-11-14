@@ -7,6 +7,7 @@ General info (to organize before the exam)
 
 ## How to run the code
 
+Add requirements.txt for environment
 
 ## References
 
