@@ -1,3 +1,2 @@
-# Project-FoCS
+# FoCS project
 
-Project FoCS - Veronica and Luca
