@@ -4,8 +4,6 @@
 
 General info (to organize before the exam)
 
-# Project
-
 Zurich Transit Bus (ZTBus) dataset. 
 
 **Data**:
